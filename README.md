@@ -31,9 +31,3 @@ Java 17, Jakarta Servlet 6, JSP, MySQL 8, Maven WAR, IntelliJ IDEA, Tomcat 10.1+
 
 ## Architecture
 JSP / Browser → Servlet Controller → DAO → MySQL
-
-## Progress-check demo
-Show catalogue → register/login → User CRUD → Book CRUD → Author CRUD → Category CRUD → customer order → admin order update/delete → customer review → admin approval.
-
-## GitHub
-Create the repo early and commit each member's module separately. The final report/viva asks for commit history.
