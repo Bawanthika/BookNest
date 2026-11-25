@@ -1,4 +1,4 @@
-# Online BookStore Management System — SE1020 OOP Project
+# BookNest — Online Bookstore Management System
 
 Complete Java/JSP/Servlet/MySQL project created for the SE1020 Object Oriented Programming assignment.
 
