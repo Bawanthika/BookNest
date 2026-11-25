@@ -7,8 +7,6 @@ Complete Java/JSP/Servlet/MySQL project created for the SE1020 Object Oriented P
 - OOP: encapsulation, inheritance, polymorphism and abstraction.
 - Six independent CRUD components: User, Book, Author, Category, Order, Review.
 - Responsive JSP/HTML/CSS frontend.
-- MySQL data storage (allowed by the assignment guidance).
-- Source code, SQL sample data, class diagram, workload distribution and viva guide.
 
 ## Technology
 Java 17, Jakarta Servlet 6, JSP, MySQL 8, Maven WAR, IntelliJ IDEA, Tomcat 10.1+.
